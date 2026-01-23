@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Vaughn Orquillas :)</h1>
-<h3 align="center">A student learning programming from the Philippines :)</h3>
+<h3 align="center">developing with purpose for a purpose</h3>
 
 - 🌱 I’m currently learning **Flutter, .NET Framework, and Arduino**
 
