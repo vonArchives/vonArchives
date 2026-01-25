@@ -1,3 +1,5 @@
+<img src="https://raw.githubusercontent.com/vonArchives/Elective-Laboratories/refs/heads/main/laboratory%202/branding/Header.png">
+
 <h1 align="center">Hi, I'm Vaughn Adi Orquillas</h1>
 <h3 align="center">Developing with purpose for a purpose.</h3>
 
